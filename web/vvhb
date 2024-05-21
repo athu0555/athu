@@ -1,0 +1,35 @@
+<div class="container">
+        <div class="card" style="width: 18rem;">
+            <div class="shadow-sm p-3 mb-5 bg-white rounded">
+                <img src="download (26).jpg" alt="Bánh kem dâu">
+                <div class="card-content">
+                    <h3>Bánh kem dâu</h3>
+                    <p>Lớp học bánh kem</p>
+                    <a href="#"><button class="banner__btn">Đăng ký ngay</button></a>
+                </div>
+            </div>
+            
+        </div>
+        <div class="card "style="width: 18rem;">
+            <div class="shadow-sm p-3 mb-5 bg-white rounded">
+                <img src="download (26).jpg" alt="Bánh kem cam">
+                <div class="card-content">
+                    <h3>Bánh kem</h3>
+                    <p>Lớp học bánh kem</p>
+                    <a href="#"><button class="banner__btn">Đăng ký ngay</button></a>
+                </div>
+            </div>
+            </div>
+           
+        <div class="card"style="width: 18rem;">
+            <div class="shadow-sm p-3 mb-5 bg-white rounded">
+                <img src="download (26).jpg" alt="Bánh kem">
+                <div class="card-content">
+                    <h3>Bánh kem</h3>
+                    <p>Lớp học bánh kem</p>
+                    <a href="#"><button class="banner__btn">Đăng ký ngay</button></a>
+                </div>
+            </div>
+            </div>
+           
+    </div>
